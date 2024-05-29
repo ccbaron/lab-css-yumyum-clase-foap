@@ -49,8 +49,7 @@ nav {
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    width: 50%;
-    margin: 0 auto;
+
     margin-top: 1rem;
 }
 
@@ -63,6 +62,10 @@ nav {
 .step {
     display: flex;
     gap: 1rem;
+}
+
+.step__image {
+    width: 40px;
 }
 
 .step__title {
